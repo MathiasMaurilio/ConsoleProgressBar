@@ -1,2 +1,2 @@
 # ConsoleProgressBar
-A simple console progress bar in C#.
+A simple library console progress bar in C#.
