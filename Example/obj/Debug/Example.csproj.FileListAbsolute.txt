@@ -1,0 +1,10 @@
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\bin\Debug\Example.exe.config
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\bin\Debug\Example.exe
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\bin\Debug\Example.pdb
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\bin\Debug\ConsoleProgressBar.dll
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\bin\Debug\ConsoleProgressBar.pdb
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\obj\Debug\Example.csprojAssemblyReference.cache
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\obj\Debug\Example.csproj.CopyComplete
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\obj\Debug\Example.exe
+D:\Documents\Projetos\CSharp\ConsoleProgressBar\Example\obj\Debug\Example.pdb
